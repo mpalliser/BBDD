@@ -1,0 +1,2 @@
+Mariano, 44444444K, Hombre, estudiante
+Jesuss, 33333333J, Hombre, trabajador
